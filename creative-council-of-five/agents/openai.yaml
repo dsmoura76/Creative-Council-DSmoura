@@ -1,0 +1,14 @@
+interface:
+  display_name: Creative Council of Five
+  short_description: Challenge creative ideas and deliver usable assets
+  default_prompt: Use $creative-council-of-five to develop a fashion campaign from
+    my brief.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: false
